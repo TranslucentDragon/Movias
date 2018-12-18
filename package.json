@@ -1,0 +1,16 @@
+{
+  "name": "movias",
+  "version": "0.0.1",
+  "description": "Modern Virtual Assistant",
+  "main": "startup.js",
+  "dependencies" : {
+    "express": "*",
+    "pug": "*",
+    "mongodb": "^3.1.8"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node startup.js"
+  },
+  "author": "Tucker von Holten"
+}
